@@ -8,7 +8,7 @@ export default function Rules() {
   return (
     <C.Rules>
       <a href='https://www.instagram.com/oriente.gaming/' target="_blank" rel="noreferrer">
-        <img src={LogoOG}>
+        <img src={LogoOG} alt='logo'>
         </img>
       </a>
       <h1>Regras Campeonato CS:GO - Oriente Gaming</h1>
