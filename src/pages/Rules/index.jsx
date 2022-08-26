@@ -63,7 +63,7 @@ export default function Rules() {
         </p>
         <br />
         <br />
-        <p className='Method'>Em caso de problema técnico, o time poderá pausar(N SEI SE DA PRA PAUSAR, PERGUNTA PRO RAMON) e o capitão devera alertar a organização, uso abusadamente ou inapropriadamente , resultara na desclassificação do time</p>
+        <p className='Method'>Em caso de problema técnico, o time poderá pausar e o capitão devera alertar a organização, uso abusadamente ou inapropriadamente , resultara na desclassificação do time</p>
         <br />
         <p className='Method'>Caso a equipe troque de jogadores, tera que ser avisado 1h antes para a organização
         </p>
