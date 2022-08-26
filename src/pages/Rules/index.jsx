@@ -35,7 +35,7 @@ export default function Rules() {
       <div>
         <h2>Quem pode participar?
         </h2>
-        <p className='Method'>Apenas pessoas que residem ou ja residiram em  Belo Oriente, com idade acima de 13 anos.
+        <p className='Method'>Apenas pessoas com idade acima de 13 anos.
         </p>
       </div>
       <div> <h2>INSCRIÇÃO
