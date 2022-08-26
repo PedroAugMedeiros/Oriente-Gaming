@@ -15,9 +15,7 @@ font-family: sans-serif;
 color: white;
 padding: 5%;
 
-.linkLocal {
-  border-bottom: solid 5px orange;
-}
+
 
 img {
   width: 50%;
@@ -63,5 +61,10 @@ spam {
 
 ${media.desktop} {
   width: 100%;
+}
+
+.divLocal {
+  padding:20%;
+  border-bottom: solid 5px orange; 
 }
 `;
